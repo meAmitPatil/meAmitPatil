@@ -10,14 +10,11 @@ I am passionate about gaining knowledge and expanding my skills in the field, wh
 💻 Proficient in various tools and languages, I am always eager to learn and explore new technologies. I have completed several projects that demonstrate my abilities.
 
 💡 My unique combination of technical skills and personal qualities sets me apart. In my free time, I enjoy taking a break and giving my eyes and back some rest.
-
-📌 *Find more about me on:- https://amitpatil.netlify.app/
 </p>
 
 <h2 align='center'> 💻 Tools & Technology</h2>
 
 <p align="center">
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 <h2 align="center">💬 Ask me about</h2>
@@ -26,11 +23,9 @@ I am passionate about gaining knowledge and expanding my skills in the field, wh
 </p>
 
 <h2 align='center'>Connect with Me</h2>
-
+  https://amitpatil.netlify.app/
 <p align="center">
-  <a href="www.linkedin.com/in/amit-patil-52b4811b3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  
 </p>
 
 ---
