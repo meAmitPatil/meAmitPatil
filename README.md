@@ -17,7 +17,7 @@ I am passionate about gaining knowledge and expanding my skills in the field, wh
 <h2 align='center'> 💻 Tools & Technology</h2>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=javascript,java,py,html,css,nodejs,mysql,bootstrap,git,github,postman,vscode,aws,cpp,django,heroku“ />
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 <h2 align="center">💬 Ask me about</h2>
