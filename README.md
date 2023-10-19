@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="./covers/hello-world.gif" height="300rem"/>
+  <img src="./hello-world.gif" height="300rem"/>
 </p>
 
 <h1 align="center">Hi there, I'm Amit Patil 👋</h1>
