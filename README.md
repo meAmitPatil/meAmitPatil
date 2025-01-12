@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hey there! I’m Amit Anantrao Patil, currently pursuing my Master’s in Computer Science at California State University, East Bay. With a keen interest in AI, software engineering, and cloud data processing, I’m all about building impactful projects that blend theory with hands-on application. From designing autonomous systems to fine-tuning data pipelines, I enjoy tackling challenging problems and pushing the envelope of what technology can achieve. I'm actively seeking opportunities to bring my AI, machine learning, software engineering, and data science expertise to solve real-world challenges.
+# While(1) { use AI to build AI; }
 
 
 ## 🌐 Socials:
